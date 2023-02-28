@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&text=Hi there 👋&fontSize=90)
 
 <!--
 **mwjng/mwjng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
